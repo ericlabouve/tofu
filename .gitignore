@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.DS_Store
+
+# Local OS files and reproducible/archived generated artifacts
+.DS_Store
+/cad/nine-dogs-3x3/nine-dogs-3x3.stl
+/cad/nine-dogs-3x3/nine-dogs-3x3.step
+/cad/nine-dogs-3x3/preview.bin
+/design/nine-dog-review/fit-cache.json
+/design/varied-refinement/before-gap-fill-options.json
+/design/varied-refinement/before-neck-face-options.json
+/design/varied-refinement/before-tail3-up-options.json
+/design/varied-refinement/before-tail4-options.json

@@ -1,0 +1,61 @@
+{
+  "layout_id": "a9",
+  "dogs": 9,
+  "through_openings": 19,
+  "nominal_layout_mm": [
+    120,
+    100
+  ],
+  "blade_height_mm": 30,
+  "overall_height_mm": 36,
+  "pad_underside_mm": 28,
+  "wall_mm": 1.6,
+  "edge_land_mm": 0.3,
+  "bevel_height_mm": 4,
+  "top_grip_fillet_mm": 2,
+  "overall_size_mm": [
+    171.99982452392578,
+    116.0,
+    36.0
+  ],
+  "valid_brep": true,
+  "solids": 1,
+  "watertight": true,
+  "winding_consistent": true,
+  "mesh_components": 1,
+  "volume_mm3": 126510.4653408479,
+  "triangles": 3329330,
+  "cadquery_version": "2.8.0",
+  "cross_sections": [
+    {
+      "z_mm": 0.02,
+      "openings": 19,
+      "max_contour_error_mm": 0.12722874229132428
+    },
+    {
+      "z_mm": 1.25,
+      "openings": 19,
+      "max_contour_error_mm": 0.10329372850173095
+    },
+    {
+      "z_mm": 2,
+      "openings": 19,
+      "max_contour_error_mm": 0.10132318460916526
+    },
+    {
+      "z_mm": 2.75,
+      "openings": 19,
+      "max_contour_error_mm": 0.11624749689458422
+    },
+    {
+      "z_mm": 10,
+      "openings": 19,
+      "max_contour_error_mm": 0.10107232394417831
+    },
+    {
+      "z_mm": 26,
+      "openings": 19,
+      "max_contour_error_mm": 0.10107232394417831
+    }
+  ]
+}

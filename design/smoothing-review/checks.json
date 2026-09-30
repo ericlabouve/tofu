@@ -1,0 +1,9 @@
+{
+  "valid_layout_partitions": 25,
+  "back_crest_before_mm": 0.7667761379348903,
+  "back_crest_after_mm": 0.0,
+  "comparison_interval_mm": [
+    33,
+    40.5
+  ]
+}
