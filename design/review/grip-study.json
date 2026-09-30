@@ -1,0 +1,27 @@
+{
+  "cadquery_version": "2.8.0",
+  "opening_mm": [
+    120,
+    100
+  ],
+  "pad_underside_mm": 28,
+  "overall_height_mm": 36,
+  "edge_land_mm": 0.3,
+  "bevel_height_mm": 4,
+  "blade_wall_mm": 1.6,
+  "valid": true,
+  "solids": 1,
+  "mesh_watertight": true,
+  "bounds_mm": [
+    [
+      -85.99899291992188,
+      -58.0,
+      0.0
+    ],
+    [
+      85.99726867675781,
+      58.0,
+      36.0
+    ]
+  ]
+}
